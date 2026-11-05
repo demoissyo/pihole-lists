@@ -6,6 +6,7 @@
 donemax.com
 myrecover.com
 cleverfiles.com
+diskinternals.com
 
 
 #---------- sites made to sell things with their referral code ----------#
