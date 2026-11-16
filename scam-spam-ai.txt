@@ -1,3 +1,6 @@
+#this is for personal use but if anyone stumbles across this list and there are false positives, please let me know and i will remove them.
+
+
 #---------- sites with AI generated articles/media ----------#
 
 
@@ -7,6 +10,8 @@ donemax.com
 myrecover.com
 cleverfiles.com
 diskinternals.com
+ezyzip.com
+universalzip.com
 
 
 #---------- sites made to sell things with their referral code ----------#
