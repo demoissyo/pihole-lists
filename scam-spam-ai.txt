@@ -1,7 +1,8 @@
-#this is for personal use but if anyone stumbles across this list and there are false positives, please let me know and i will remove them.
+#this is for personal use but if anyone stumbles across this list and there are mistakes, please let me know and i will remove them.
 
 
 #---------- sites with AI generated articles/media ----------#
+gluecrafters.com
 
 
 
@@ -14,7 +15,7 @@ ezyzip.com
 universalzip.com
 
 
-#---------- sites made to sell things with their referral code ----------#
+#---------- sites made to sell things with their affiliate links ----------#
 
 
 
